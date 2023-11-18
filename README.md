@@ -29,7 +29,7 @@ Supersets (current name for app) is a workout assistant that helps you log your 
 
 ### 1. User Stories (Required and Optional)
 
-**Required Must-have Stories**
+**Required Must-have Stories (I have checked the ones I have completed)** 
 
 - [x] I want to be able to add a workout to a table view
 - [x] I want to be able to modify things like number of sets/reps, exercise name, and weight in the custom table view cells
