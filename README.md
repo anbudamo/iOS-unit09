@@ -31,30 +31,31 @@ Supersets (current name for app) is a workout assistant that helps you log your 
 
 **Required Must-have Stories**
 
-* I want to be able to add a workout to a table view
-* I want to be able to modify things like number of sets/reps, exercise name, and weight in the custom table view cells
-* A database/array of exercises which you can choose from and add. Can search for it on a bar that has auto-complete
-* I want a page that displays the progress I have made
-* I want the app to support entering a superset or custom workout types
+- [x] I want to be able to add a workout to a table view
+- [x] I want to be able to modify things like number of sets/reps, exercise name, and weight in the custom table view cells
+- [x] A database/array of exercises which you can choose from and add. Can search for it on a bar that has auto-complete
+- [x] I want a main page with date and time that I can modify so that I can record the start time
 
 **Optional Nice-to-have Stories**
 
+* I want the app to support entering a superset or custom workout types 
 * I want a calendar view where I can choose and access specific time stamps
 * I want a weight tracking page
 * I want a bar that I can slide to indicate the intensity with which I did an exercise
 * I want a page dedicated to tracking the big three lifts- bench, squat, deadlift
+* I want a page that displays the progress I have made
 
 ### 2. Screen Archetypes
 
-- [ ] calendar
+- [ ] calendar (decided not to do it)
 * I want to have the days I worked out in highlighted in the calendar
 * I want to be able to choose a day that I worked out in the calendar and see what I did that day
-- [ ] creation
+- [x] creation
 * I want to be able to add a new cell to a list/tableview and edit it
 * I want the most recent workouts to show up at the top
-- [ ] stream
+- [ ] stream (was planning on having another tab with a stream view - to ambitious)
 * I want to be able to stream through the list of workouts
-- [ ] detail
+- [x] detail
 * I want to have a detail view where I can see a detailed summary of my workout with all the data that I entered
 
 calendar, creation, stream, detail
@@ -78,6 +79,8 @@ calendar, creation, stream, detail
 ## Wireframes
 
 <img src="https://imgur.com/K3CB2Tk.jpg" width=600>
+<img src="https://imgur.com/K3CB2Tk.jpg" width=600>
+<img src="https://imgur.com/K3CB2Tk.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
@@ -89,11 +92,20 @@ calendar, creation, stream, detail
 
 ### Models
 
-### Week 8 progress
+### Week 8+9 progress
 
+<img src="https://imgur.com/QhuzWu1.gif" width=600>
+
+Week 8:
 I worked on actually developing my app after the brainstorming activity. I created a basic form of the homepage, with the app banner,
 a start button for the workout, and date/time that updates with the current time. The main challenge I faced was with starting the app 
 as I worried I hadn't done enough planning to execute my ideas. After I started developing it was smooth sailing.
+
+Week 9:
+The bulk of my time this week was figuring out how to make an API call to an exercise API and populate my tableview with all those exercise. 
+A lot of time was also spent on figuring out how to navigate between viewcontroller and pass data inbetween them. It was very challenging building 
+the app from scratch. Unlinke some of the labs there weren't hints that I could follow. I had to figure it out by sheer force with the help of 
+the codepath lectures, cp resources, stack overflow, and chatGPT. At some points I was so stuck I had to revisit the project the next day.
 
 [Add table of models]
 
