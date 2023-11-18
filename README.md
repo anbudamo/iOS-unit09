@@ -79,8 +79,6 @@ calendar, creation, stream, detail
 ## Wireframes
 
 <img src="https://imgur.com/K3CB2Tk.jpg" width=600>
-<img src="https://imgur.com/K3CB2Tk.jpg" width=600>
-<img src="https://imgur.com/K3CB2Tk.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
@@ -94,7 +92,15 @@ calendar, creation, stream, detail
 
 ### Week 8+9 progress
 
-<img src="https://imgur.com/QhuzWu1.gif" width=600>
+Progress screenshots:
+1. Designed such that start time could be changed and resetted. Also made sure that time updates and refelcts current time
+2. Designed the landing page when the start button is clicked. It has a stopwatch that lets the user see how much time they are
+   spending. I also designed a tableview populated with an almost exhaustive list of exercises that the user can choose while
+   working out.
+<img src="https://imgur.com/iI7IQh4.jpg" width=600>
+<img src="https://imgur.com/gnjFx8A.jpg" width=600>
+
+Video of build progress: https://imgur.com/QhuzWu1.gif
 
 Week 8:
 I worked on actually developing my app after the brainstorming activity. I created a basic form of the homepage, with the app banner,
