@@ -53,7 +53,7 @@ Supersets (current name for app) is a workout assistant that helps you log your 
 - [x] creation
 * I want to be able to add a new cell to a list/tableview and edit it
 * I want the most recent workouts to show up at the top
-- [ ] stream (was planning on having another tab with a stream view - to ambitious)
+- [ ] stream (was planning on having another tab with a stream view - too ambitious)
 * I want to be able to stream through the list of workouts
 - [x] detail
 * I want to have a detail view where I can see a detailed summary of my workout with all the data that I entered
@@ -101,6 +101,7 @@ Progress screenshots:
 <img src="https://imgur.com/gnjFx8A.jpg" width=600>
 
 Video of build progress: https://imgur.com/QhuzWu1.gif
+Updated video of build progress: https://imgur.com/lWZ5hZV.gif
 
 Week 8:
 I worked on actually developing my app after the brainstorming activity. I created a basic form of the homepage, with the app banner,
